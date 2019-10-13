@@ -13,7 +13,6 @@
     height: auto;
 }
 
-/* clearfix trick */
 .wrapped:after {
     content: " ";
     visibility: hidden;
